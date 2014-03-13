@@ -1,0 +1,16 @@
+li {
+	list-style: none;
+	border: 1px solid gray;
+	padding: 0px 10px;
+}
+
+ul[data-title-id] {
+	display: block;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+.title {
+	background-color: lightblue;
+	font-size: 20px;
+}
