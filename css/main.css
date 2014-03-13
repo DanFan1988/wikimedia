@@ -1,6 +1,6 @@
 li {
 	list-style: none;
-	border: 1px solid gray;
+	border-top: 1px solid gray;
 	padding: 0px 10px;
 }
 
