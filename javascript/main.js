@@ -22,6 +22,9 @@
 				}
 			}
 		}
+		$('.title').on("click", function(event){
+			$(this).next('li').toggle()
+		});
 	};
 
 	View.prototype.initialize = function(){
